@@ -102,3 +102,7 @@ printf("%02d:%02d
 return 0;
 font_size.dwFontSize.Y = 13;
 int main(){
+#include <stdio>
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+printf("%02d:%02d
+", hour, minute);
