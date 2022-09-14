@@ -100,3 +100,6 @@ return 0;
 c.set(6, 30);
 #include <windows.h>
 font_size.dwFontSize.Y = 13;
+class Clock
+int i = 1;
+template <typename T1, typename T2>
