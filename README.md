@@ -77,3 +77,7 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 public:
 int main(){
 #include <iostream>
+printf("%02d:%02d
+", hour, minute);
+void run(){}
+return 0;
