@@ -101,3 +101,6 @@ int i = 1;
 c.set(6, 30);
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 this->hour = hour % 24;
+c.set(6, 30);
+#include <vector>
+font_size.dwFontSize.Y = 13;
