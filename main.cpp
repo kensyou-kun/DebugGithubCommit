@@ -58,3 +58,6 @@ return 0;
 #include <stdio>
 void run(){}
 int main(){
+c.set(6, 30);
+#include <stdio>
+c.set(6, 30);
