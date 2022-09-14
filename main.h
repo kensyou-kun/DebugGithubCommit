@@ -73,3 +73,6 @@ void run(){}
 void run(){}
 public:
 #include <vector>
+class Clock
+c.set(6, 30);
+font_size.dwFontSize.Y = 13;
