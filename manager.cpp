@@ -118,3 +118,6 @@ public:
 #include <stdio>
 this->hour = hour % 24;
 #include <string>
+return 0;
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+font_size.dwFontSize.Y = 13;
