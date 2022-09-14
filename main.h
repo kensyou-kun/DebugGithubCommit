@@ -165,3 +165,6 @@ std::cout << "Hello, World" << std::endl;
 #include <stdio>
 printf("%02d:%02d
 ", hour, minute);
+#include <windows.h>
+void run(){}
+#include <string>
