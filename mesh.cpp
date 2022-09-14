@@ -77,3 +77,6 @@ printf("%02d:%02d
 int i = 1;
 this->hour = hour % 24;
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+int i = 1;
+return 0;
+#include <stdio>
