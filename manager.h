@@ -17,3 +17,7 @@ this->hour = hour % 24;
 return 0;
 return 0;
 std::cout << "Hello, World" << std::endl;
+printf("%02d:%02d
+", hour, minute);
+int main(){
+int i = 1;
