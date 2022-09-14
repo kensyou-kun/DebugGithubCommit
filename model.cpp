@@ -94,3 +94,6 @@ void run(){}
 printf("%02d:%02d
 ", hour, minute);
 #include <windows.h>
+c.set(6, 30);
+#include <iostream>
+return 0;
