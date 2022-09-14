@@ -83,3 +83,6 @@ class Clock
 this->hour = hour % 24;
 public:
 #include <stdio>
+template <typename T1, typename T2>
+public:
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
