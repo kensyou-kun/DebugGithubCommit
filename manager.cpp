@@ -115,3 +115,6 @@ std::cout << "Hello, World" << std::endl;
 int main(){
 public:
 #include <stdio>
+#include <stdio>
+this->hour = hour % 24;
+#include <string>
