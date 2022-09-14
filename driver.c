@@ -124,3 +124,6 @@ printf("%02d:%02d
 this->hour = hour % 24;
 class Clock
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <windows.h>
+class Clock
