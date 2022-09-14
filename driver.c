@@ -15,3 +15,6 @@ this->hour = hour % 24;
 #include <vector>
 printf("%02d:%02d
 ", hour, minute);
+return 0;
+int i = 1;
+std::cout << "Hello, World" << std::endl;
