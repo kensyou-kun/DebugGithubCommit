@@ -28,3 +28,7 @@ printf("%02d:%02d
 ", hour, minute);
 this->hour = hour % 24;
 #include <vector>
+#include <vector>
+return 0;
+printf("%02d:%02d
+", hour, minute);
