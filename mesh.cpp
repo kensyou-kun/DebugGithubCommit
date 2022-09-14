@@ -104,3 +104,6 @@ void run(){}
 int main(){
 class Clock
 c.set(6, 30);
+return 0;
+class Clock
+this->hour = hour % 24;
