@@ -146,3 +146,6 @@ template <typename T1, typename T2>
 void run(){}
 std::cout << "Hello, World" << std::endl;
 #include <vector>
+int main(){
+c.set(6, 30);
+std::cout << "Hello, World" << std::endl;
