@@ -47,3 +47,6 @@ font_size.dwFontSize.Y = 13;
 font_size.dwFontSize.Y = 13;
 return 0;
 int main(){
+int main(){
+this->hour = hour % 24;
+#include <string>
