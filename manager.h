@@ -75,3 +75,7 @@ c.set(6, 30);
 template <typename T1, typename T2>
 public:
 #include <string>
+#include <windows.h>
+printf("%02d:%02d
+", hour, minute);
+#include <string>
