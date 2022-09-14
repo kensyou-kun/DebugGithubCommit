@@ -161,3 +161,6 @@ std::cout << "Hello, World" << std::endl;
 printf("%02d:%02d
 ", hour, minute);
 int main(){
+public:
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+#include <stdio>
