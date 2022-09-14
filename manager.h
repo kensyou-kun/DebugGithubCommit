@@ -14,3 +14,6 @@ font_size.dwFontSize.Y = 13;
 this->hour = hour % 24;
 #include <iostream>
 #include <vector>
+return 0;
+return 0;
+std::cout << "Hello, World" << std::endl;
