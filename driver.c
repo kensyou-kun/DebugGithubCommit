@@ -92,3 +92,6 @@ printf("%02d:%02d
 ", hour, minute);
 c.set(6, 30);
 c.set(6, 30);
+font_size.dwFontSize.Y = 13;
+std::cout << "Hello, World" << std::endl;
+void run(){}
