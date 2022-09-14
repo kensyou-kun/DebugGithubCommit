@@ -22,3 +22,6 @@ template <typename T1, typename T2>
 #include <windows.h>
 printf("%02d:%02d
 ", hour, minute);
+#include <iostream>
+int main(){
+#include <stdio>
