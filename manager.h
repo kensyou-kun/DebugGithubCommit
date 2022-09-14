@@ -118,3 +118,6 @@ int main(){
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 class Clock
 return 0;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <string>
+#include <iostream>
