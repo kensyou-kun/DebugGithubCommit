@@ -7,3 +7,6 @@ int main(){
 public:
 public:
 font_size.dwFontSize.Y = 13;
+std::cout << "Hello, World" << std::endl;
+int i = 1;
+int i = 1;
