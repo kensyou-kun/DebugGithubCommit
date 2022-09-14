@@ -42,3 +42,6 @@ return 0;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <stdio>
 #include <string>
+c.set(6, 30);
+public:
+#include <windows.h>
