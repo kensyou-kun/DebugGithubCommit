@@ -33,3 +33,6 @@ this->hour = hour % 24;
 font_size.dwFontSize.Y = 13;
 font_size.dwFontSize.Y = 13;
 public:
+int i = 1;
+#include <stdio>
+#include <windows.h>
