@@ -91,3 +91,6 @@ return 0;
 template <typename T1, typename T2>
 std::cout << "Hello, World" << std::endl;
 font_size.dwFontSize.Y = 13;
+#include <iostream>
+class Clock
+#include <stdio>
