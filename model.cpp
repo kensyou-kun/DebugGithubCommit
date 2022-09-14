@@ -84,3 +84,6 @@ printf("%02d:%02d
 #include <vector>
 c.set(6, 30);
 c.set(6, 30);
+font_size.dwFontSize.Y = 13;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+int main(){
