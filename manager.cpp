@@ -18,3 +18,7 @@ int i = 1;
 template <typename T1, typename T2>
 void run(){}
 template <typename T1, typename T2>
+#include <string>
+#include <windows.h>
+printf("%02d:%02d
+", hour, minute);
