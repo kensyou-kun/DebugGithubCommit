@@ -38,3 +38,7 @@ public:
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <stdio>
 class Clock
+std::cout << "Hello, World" << std::endl;
+printf("%02d:%02d
+", hour, minute);
+#include <vector>
