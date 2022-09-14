@@ -109,3 +109,6 @@ this->hour = hour % 24;
 template <typename T1, typename T2>
 void run(){}
 #include <stdio>
+class Clock
+int i = 1;
+std::cout << "Hello, World" << std::endl;
