@@ -127,3 +127,6 @@ std::cout << "Hello, World" << std::endl;
 c.set(6, 30);
 public:
 c.set(6, 30);
+return 0;
+class Clock
+#include <windows.h>
