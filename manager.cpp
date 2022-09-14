@@ -106,3 +106,6 @@ int main(){
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 printf("%02d:%02d
 ", hour, minute);
+class Clock
+#include <iostream>
+return 0;
