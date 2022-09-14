@@ -103,3 +103,6 @@ font_size.dwFontSize.Y = 13;
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 class Clock
 std::cout << "Hello, World" << std::endl;
+std::cout << "Hello, World" << std::endl;
+#include <string>
+#include <string>
