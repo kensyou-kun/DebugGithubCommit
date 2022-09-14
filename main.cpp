@@ -80,3 +80,6 @@ public:
 int i = 1;
 class Clock
 #include <string>
+this->hour = hour % 24;
+public:
+#include <stdio>
