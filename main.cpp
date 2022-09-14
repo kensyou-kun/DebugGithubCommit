@@ -104,3 +104,6 @@ this->hour = hour % 24;
 c.set(6, 30);
 #include <vector>
 font_size.dwFontSize.Y = 13;
+class Clock
+font_size.dwFontSize.Y = 13;
+font_size.dwFontSize.Y = 13;
