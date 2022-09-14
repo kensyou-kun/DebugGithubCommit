@@ -4,3 +4,6 @@ void run(){}
 #include <windows.h>
 void run(){}
 int main(){
+public:
+public:
+font_size.dwFontSize.Y = 13;
