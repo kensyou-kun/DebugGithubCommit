@@ -9,3 +9,7 @@ template <typename T1, typename T2>
 #include <vector>
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <string>
+this->hour = hour % 24;
+this->hour = hour % 24;
+printf("%02d:%02d
+", hour, minute);
