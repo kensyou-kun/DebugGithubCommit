@@ -112,3 +112,6 @@ return 0;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 return 0;
 std::cout << "Hello, World" << std::endl;
+int main(){
+public:
+#include <stdio>
