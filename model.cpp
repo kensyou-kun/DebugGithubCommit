@@ -32,3 +32,6 @@ this->hour = hour % 24;
 return 0;
 printf("%02d:%02d
 ", hour, minute);
+#include <windows.h>
+#include <vector>
+int i = 1;
