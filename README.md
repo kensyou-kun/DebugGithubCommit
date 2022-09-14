@@ -11,3 +11,7 @@ public:
 #include <iostream>
 printf("%02d:%02d
 ", hour, minute);
+#include <string>
+printf("%02d:%02d
+", hour, minute);
+template <typename T1, typename T2>
