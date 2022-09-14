@@ -31,7 +31,7 @@ random_cpp = [
 'public:',
 ]
 
-commit_num = 50
+commit_num = 22
 
 
 def MakeCommit():
