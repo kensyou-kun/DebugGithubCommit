@@ -140,3 +140,6 @@ int main(){
 font_size.dwFontSize.Y = 13;
 #include <iostream>
 #include <windows.h>
+public:
+return 0;
+int main(){
