@@ -69,3 +69,6 @@ font_size.dwFontSize.Y = 13;
 template <typename T1, typename T2>
 #include <iostream>
 return 0;
+void run(){}
+c.set(6, 30);
+c.set(6, 30);
