@@ -12,3 +12,6 @@ std::cout << "Hello, World" << std::endl;
 c.set(6, 30);
 template <typename T1, typename T2>
 public:
+int i = 1;
+#include <iostream>
+#include <windows.h>
