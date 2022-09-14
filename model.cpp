@@ -50,3 +50,6 @@ int main(){
 int main(){
 this->hour = hour % 24;
 #include <string>
+void run(){}
+#include <vector>
+#include <string>
