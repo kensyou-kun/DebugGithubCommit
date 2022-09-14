@@ -159,3 +159,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 #include <iostream>
 c.set(6, 30);
 #include <vector>
+std::cout << "Hello, World" << std::endl;
+font_size.dwFontSize.Y = 13;
+return 0;
