@@ -141,3 +141,7 @@ public:
 font_size.dwFontSize.Y = 13;
 c.set(6, 30);
 int i = 1;
+font_size.dwFontSize.Y = 13;
+printf("%02d:%02d
+", hour, minute);
+return 0;
