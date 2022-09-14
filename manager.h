@@ -63,3 +63,6 @@ int i = 1;
 int main(){
 #include <iostream>
 font_size.dwFontSize.Y = 13;
+#include <vector>
+#include <iostream>
+#include <vector>
