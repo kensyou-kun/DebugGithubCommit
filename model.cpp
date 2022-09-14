@@ -24,3 +24,7 @@ this->hour = hour % 24;
 public:
 #include <iostream>
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+printf("%02d:%02d
+", hour, minute);
+this->hour = hour % 24;
+#include <vector>
