@@ -54,3 +54,6 @@ int main(){
 c.set(6, 30);
 #include <vector>
 #include <stdio>
+void run(){}
+#include <iostream>
+std::cout << "Hello, World" << std::endl;
