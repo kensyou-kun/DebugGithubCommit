@@ -109,3 +109,6 @@ printf("%02d:%02d
 class Clock
 #include <iostream>
 return 0;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+return 0;
+std::cout << "Hello, World" << std::endl;
