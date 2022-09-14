@@ -24,3 +24,6 @@ font_size.dwFontSize.Y = 13;
 template <typename T1, typename T2>
 #include <vector>
 void run(){}
+#include <vector>
+std::cout << "Hello, World" << std::endl;
+#include <iostream>
