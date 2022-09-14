@@ -88,3 +88,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 std::cout << "Hello, World" << std::endl;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 c.set(6, 30);
+#include <windows.h>
+font_size.dwFontSize.Y = 13;
+c.set(6, 30);
