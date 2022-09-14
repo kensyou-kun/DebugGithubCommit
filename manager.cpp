@@ -63,3 +63,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 #include <windows.h>
 public:
 std::cout << "Hello, World" << std::endl;
+c.set(6, 30);
+c.set(6, 30);
+void run(){}
