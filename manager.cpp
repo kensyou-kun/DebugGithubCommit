@@ -91,3 +91,7 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 std::cout << "Hello, World" << std::endl;
 font_size.dwFontSize.Y = 13;
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+template <typename T1, typename T2>
+#include <iostream>
+printf("%02d:%02d
+", hour, minute);
