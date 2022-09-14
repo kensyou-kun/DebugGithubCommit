@@ -54,3 +54,6 @@ font_size.dwFontSize.Y = 13;
 int i = 1;
 this->hour = hour % 24;
 this->hour = hour % 24;
+return 0;
+return 0;
+c.set(6, 30);
