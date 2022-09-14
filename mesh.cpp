@@ -86,3 +86,7 @@ font_size.dwFontSize.Y = 13;
 #include <stdio>
 #include <string>
 #include <iostream>
+return 0;
+#include <iostream>
+printf("%02d:%02d
+", hour, minute);
