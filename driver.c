@@ -127,3 +127,6 @@ ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <windows.h>
 class Clock
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+public:
+int i = 1;
