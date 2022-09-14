@@ -103,3 +103,6 @@ int main(){
 int i = 1;
 public:
 template <typename T1, typename T2>
+#include <iostream>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+this->hour = hour % 24;
