@@ -31,7 +31,7 @@ random_cpp = [
 'public:',
 ]
 
-commit_num = 22
+commit_num = 300
 
 
 def MakeCommit():
@@ -55,4 +55,4 @@ def MakeCommit():
 if __name__ == "__main__":
     for i in range(commit_num):
         MakeCommit()
-        time.sleep(1)
+        time.sleep(3)

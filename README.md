@@ -31,3 +31,6 @@ int i = 1;
 this->hour = hour % 24;
 c.set(6, 30);
 void run(){}
+public:
+public:
+std::cout << "Hello, World" << std::endl;
