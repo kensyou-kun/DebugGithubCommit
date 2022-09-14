@@ -124,3 +124,6 @@ ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <string>
 #include <string>
 #include <vector>
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+#include <iostream>
+#include <windows.h>
