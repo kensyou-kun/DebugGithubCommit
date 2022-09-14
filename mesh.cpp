@@ -129,3 +129,6 @@ int main(){
 #include <string>
 std::cout << "Hello, World" << std::endl;
 int i = 1;
+int main(){
+#include <iostream>
+#include <vector>
