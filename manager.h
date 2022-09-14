@@ -39,3 +39,6 @@ return 0;
 #include <string>
 return 0;
 #include <string>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <stdio>
+#include <string>
