@@ -90,3 +90,7 @@ int main(){
 void run(){}
 std::cout << "Hello, World" << std::endl;
 public:
+void run(){}
+printf("%02d:%02d
+", hour, minute);
+#include <windows.h>
