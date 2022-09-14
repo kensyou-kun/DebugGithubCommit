@@ -60,3 +60,6 @@ this->hour = hour % 24;
 #include <iostream>
 std::cout << "Hello, World" << std::endl;
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+#include <windows.h>
+public:
+std::cout << "Hello, World" << std::endl;
