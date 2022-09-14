@@ -61,3 +61,6 @@ public:
 void run(){}
 font_size.dwFontSize.Y = 13;
 template <typename T1, typename T2>
+return 0;
+#include <iostream>
+void run(){}
