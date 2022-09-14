@@ -99,3 +99,6 @@ printf("%02d:%02d
 this->hour = hour % 24;
 printf("%02d:%02d
 ", hour, minute);
+return 0;
+font_size.dwFontSize.Y = 13;
+int main(){
