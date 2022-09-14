@@ -153,3 +153,6 @@ this->hour = hour % 24;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 template <typename T1, typename T2>
 return 0;
+public:
+#include <windows.h>
+#include <string>
