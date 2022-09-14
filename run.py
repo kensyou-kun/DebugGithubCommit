@@ -6,7 +6,7 @@ import time
 
 commit_message = ["add", "edit", "fix", "hotfix", "hack", "merge"]
 
-commit_num = 10
+commit_num = 200
 
 
 def MakeCommit():
