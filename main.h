@@ -111,3 +111,6 @@ printf("%02d:%02d
 ", hour, minute);
 void run(){}
 #include <stdio>
+#include <windows.h>
+std::cout << "Hello, World" << std::endl;
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
