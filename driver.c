@@ -152,3 +152,8 @@ ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <string>
 #include <stdio>
 int main(){
+printf("%02d:%02d
+", hour, minute);
+printf("%02d:%02d
+", hour, minute);
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
