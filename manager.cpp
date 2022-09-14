@@ -51,3 +51,6 @@ class Clock
 return 0;
 return 0;
 void run(){}
+this->hour = hour % 24;
+#include <iostream>
+template <typename T1, typename T2>
