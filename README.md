@@ -90,3 +90,6 @@ c.set(6, 30);
 int i = 1;
 #include <string>
 std::cout << "Hello, World" << std::endl;
+font_size.dwFontSize.Y = 13;
+this->hour = hour % 24;
+class Clock
