@@ -95,3 +95,6 @@ c.set(6, 30);
 font_size.dwFontSize.Y = 13;
 std::cout << "Hello, World" << std::endl;
 void run(){}
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+class Clock
+template <typename T1, typename T2>
