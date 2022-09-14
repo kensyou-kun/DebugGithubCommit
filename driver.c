@@ -108,3 +108,6 @@ int i = 1;
 void run(){}
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 font_size.dwFontSize.Y = 13;
+int i = 1;
+std::cout << "Hello, World" << std::endl;
+template <typename T1, typename T2>
