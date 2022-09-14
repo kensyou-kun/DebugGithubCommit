@@ -139,3 +139,7 @@ template <typename T1, typename T2>
 std::cout << "Hello, World" << std::endl;
 #include <vector>
 template <typename T1, typename T2>
+font_size.dwFontSize.Y = 13;
+printf("%02d:%02d
+", hour, minute);
+c.set(6, 30);
