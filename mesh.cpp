@@ -151,3 +151,7 @@ int main(){
 #include <stdio>
 this->hour = hour % 24;
 font_size.dwFontSize.Y = 13;
+#include <stdio>
+printf("%02d:%02d
+", hour, minute);
+#include <stdio>
