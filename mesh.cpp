@@ -48,3 +48,6 @@ this->hour = hour % 24;
 void run(){}
 int main(){
 #include <iostream>
+#include <string>
+font_size.dwFontSize.Y = 13;
+#include <stdio>
