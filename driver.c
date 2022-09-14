@@ -114,3 +114,6 @@ template <typename T1, typename T2>
 #include <windows.h>
 public:
 c.set(6, 30);
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+#include <stdio>
+class Clock
