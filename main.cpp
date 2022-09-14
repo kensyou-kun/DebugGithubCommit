@@ -92,3 +92,6 @@ return 0;
 std::cout << "Hello, World" << std::endl;
 template <typename T1, typename T2>
 c.set(6, 30);
+public:
+public:
+return 0;
