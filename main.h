@@ -97,3 +97,6 @@ class Clock
 #include <iostream>
 #include <vector>
 #include <windows.h>
+font_size.dwFontSize.Y = 13;
+this->hour = hour % 24;
+this->hour = hour % 24;
