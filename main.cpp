@@ -77,3 +77,6 @@ int main(){
 #include <windows.h>
 #include <string>
 public:
+int i = 1;
+class Clock
+#include <string>
