@@ -48,3 +48,6 @@ public:
 int i = 1;
 int main(){
 public:
+class Clock
+return 0;
+#include <stdio>
