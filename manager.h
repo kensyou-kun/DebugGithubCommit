@@ -82,3 +82,6 @@ printf("%02d:%02d
 #include <stdio>
 return 0;
 this->hour = hour % 24;
+this->hour = hour % 24;
+public:
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
