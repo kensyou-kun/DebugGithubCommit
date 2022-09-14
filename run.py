@@ -20,9 +20,18 @@ random_cpp = [
 'int i = 1;',
 'bool flag == true;'
 'int i = nullptr;'
+'int array_[3] = { 0, 0, 0 };',
+'ptr_array = array_;'
+'std::cout << "ptr_array " << ptr_array << std::endl;',
+'template <typename T1, typename T2>',
+'class Clock',
+'this->hour = hour % 24;',
+'printf("%02d:%02d\n", hour, minute);',
+'c.set(6, 30);',
+'public:',
 ]
 
-commit_num = 25
+commit_num = 50
 
 
 def MakeCommit():
@@ -32,7 +41,7 @@ def MakeCommit():
 
     edit = random.choice(files)
 
-    rand = random.choice(random_cpp) + "\n"
+    rand = random.choice(random_cpp) + "\n" + random.choice(random_cpp) + "\n" + random.choice(random_cpp) + "\n"
     print(edit)
 
     with open(edit, 'a') as f:
