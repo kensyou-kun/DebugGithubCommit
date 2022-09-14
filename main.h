@@ -51,3 +51,7 @@ public:
 class Clock
 return 0;
 #include <stdio>
+#include <windows.h>
+printf("%02d:%02d
+", hour, minute);
+public:
