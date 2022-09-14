@@ -82,3 +82,6 @@ public:
 #include <windows.h>
 public:
 c.set(6, 30);
+void run(){}
+int main(){
+template <typename T1, typename T2>
