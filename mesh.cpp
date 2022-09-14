@@ -110,3 +110,6 @@ this->hour = hour % 24;
 int main(){
 #include <windows.h>
 std::cout << "Hello, World" << std::endl;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+public:
+c.set(6, 30);
