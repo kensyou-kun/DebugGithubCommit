@@ -115,3 +115,6 @@ font_size.dwFontSize.Y = 13;
 this->hour = hour % 24;
 void run(){}
 int main(){
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+class Clock
+return 0;
