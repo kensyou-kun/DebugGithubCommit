@@ -124,3 +124,6 @@ c.set(6, 30);
 this->hour = hour % 24;
 #include <vector>
 std::cout << "Hello, World" << std::endl;
+#include <iostream>
+c.set(6, 30);
+font_size.dwFontSize.Y = 13;
