@@ -25,3 +25,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 public:
 printf("%02d:%02d
 ", hour, minute);
+#include <iostream>
+public:
+int main(){
