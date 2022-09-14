@@ -104,3 +104,6 @@ ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 printf("%02d:%02d
 ", hour, minute);
 public:
+#include <iostream>
+template <typename T1, typename T2>
+c.set(6, 30);
