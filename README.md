@@ -1,1 +1,1 @@
-u
+uint main(){
