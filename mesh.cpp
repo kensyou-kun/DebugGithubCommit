@@ -97,3 +97,7 @@ printf("%02d:%02d
 ", hour, minute);
 #include <stdio>
 #include <vector>
+printf("%02d:%02d
+", hour, minute);
+void run(){}
+#include <string>
