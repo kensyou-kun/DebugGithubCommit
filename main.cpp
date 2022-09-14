@@ -16,3 +16,6 @@ printf("%02d:%02d
 #include <stdio>
 c.set(6, 30);
 #include <iostream>
+#include <stdio>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <iostream>
