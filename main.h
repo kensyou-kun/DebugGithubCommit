@@ -152,3 +152,6 @@ ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 font_size.dwFontSize.Y = 13;
 c.set(6, 30);
 void run(){}
+c.set(6, 30);
+#include <string>
+std::cout << "Hello, World" << std::endl;
