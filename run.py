@@ -5,8 +5,24 @@ import subprocess
 import time
 
 commit_message = ["add", "edit", "fix", "hotfix", "hack", "merge"]
+random_cpp = [
+"#include <windows.h>",
+"#include <iostream>",
+"#include <string>",
+"#include <vector>",
+"#include <stdio>",
+"font_size.dwFontSize.Y = 13;",
+"int main(){",
+"return 0;",
+'std::cout << "Hello, World" << std::endl;',
+'void run(){'
+'}',
+'int i = 1;',
+'bool flag == true;'
+'int i = nullptr;'
+]
 
-commit_num = 26
+commit_num = 1
 
 
 def MakeCommit():
@@ -18,9 +34,9 @@ def MakeCommit():
 
     edit = random.choice(files)
 
-    rand = random.choice(string.ascii_letters + string.digits)
+    rand = random.choice(random_cpp)
 
-    with open(edit, 'w') as f:
+    with open(edit, 'a') as f:
         f.write(rand)
 
     subprocess.run(["git", "add", "."])
