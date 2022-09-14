@@ -53,3 +53,6 @@ this->hour = hour % 24;
 void run(){}
 #include <vector>
 #include <string>
+#include <iostream>
+std::cout << "Hello, World" << std::endl;
+c.set(6, 30);
