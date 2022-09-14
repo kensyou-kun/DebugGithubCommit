@@ -44,3 +44,6 @@ int main(){
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <windows.h>
 font_size.dwFontSize.Y = 13;
+font_size.dwFontSize.Y = 13;
+return 0;
+int main(){
