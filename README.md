@@ -130,3 +130,7 @@ font_size.dwFontSize.Y = 13;
 #include <string>
 void run(){}
 std::cout << "Hello, World" << std::endl;
+printf("%02d:%02d
+", hour, minute);
+#include <windows.h>
+template <typename T1, typename T2>
