@@ -148,3 +148,6 @@ return 0;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 font_size.dwFontSize.Y = 13;
 int main(){
+#include <stdio>
+this->hour = hour % 24;
+font_size.dwFontSize.Y = 13;
