@@ -121,3 +121,6 @@ int main(){
 c.set(6, 30);
 printf("%02d:%02d
 ", hour, minute);
+this->hour = hour % 24;
+class Clock
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
