@@ -15,3 +15,6 @@ class Clock
 class Clock
 int i = 1;
 class Clock
+public:
+return 0;
+std::cout << "Hello, World" << std::endl;
