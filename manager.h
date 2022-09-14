@@ -57,3 +57,6 @@ c.set(6, 30);
 void run(){}
 #include <iostream>
 std::cout << "Hello, World" << std::endl;
+int i = 1;
+int main(){
+int i = 1;
