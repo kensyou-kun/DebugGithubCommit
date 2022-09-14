@@ -3,3 +3,4 @@ void run(){}
 #include <windows.h>
 #include <windows.h>
 void run(){}
+int main(){
