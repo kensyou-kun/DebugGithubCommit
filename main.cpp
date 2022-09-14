@@ -35,3 +35,7 @@ printf("%02d:%02d
 ", hour, minute);
 void run(){}
 int i = 1;
+font_size.dwFontSize.Y = 13;
+#include <string>
+printf("%02d:%02d
+", hour, minute);
