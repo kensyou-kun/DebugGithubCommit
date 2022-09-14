@@ -40,3 +40,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 #include <windows.h>
 public:
 c.set(6, 30);
+int i = 1;
+public:
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
