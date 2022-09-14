@@ -15,3 +15,6 @@ public:
 int i = 1;
 #include <iostream>
 #include <windows.h>
+template <typename T1, typename T2>
+void run(){}
+template <typename T1, typename T2>
