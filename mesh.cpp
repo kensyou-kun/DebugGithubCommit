@@ -158,3 +158,6 @@ printf("%02d:%02d
 font_size.dwFontSize.Y = 13;
 template <typename T1, typename T2>
 #include <iostream>
+class Clock
+this->hour = hour % 24;
+font_size.dwFontSize.Y = 13;
