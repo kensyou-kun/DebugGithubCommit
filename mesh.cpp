@@ -126,3 +126,6 @@ printf("%02d:%02d
 font_size.dwFontSize.Y = 13;
 int main(){
 int main(){
+#include <string>
+std::cout << "Hello, World" << std::endl;
+int i = 1;
