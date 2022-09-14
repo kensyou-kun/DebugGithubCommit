@@ -21,3 +21,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 c.set(6, 30);
 int i = 1;
 this->hour = hour % 24;
+public:
+#include <iostream>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
