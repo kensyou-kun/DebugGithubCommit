@@ -67,3 +67,6 @@ void run(){}
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 font_size.dwFontSize.Y = 13;
 font_size.dwFontSize.Y = 13;
+#include <iostream>
+public:
+public:
