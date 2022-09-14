@@ -48,3 +48,6 @@ template <typename T1, typename T2>
 public:
 #include <vector>
 class Clock
+return 0;
+return 0;
+void run(){}
