@@ -97,3 +97,6 @@ printf("%02d:%02d
 c.set(6, 30);
 #include <iostream>
 return 0;
+c.set(6, 30);
+#include <windows.h>
+font_size.dwFontSize.Y = 13;
