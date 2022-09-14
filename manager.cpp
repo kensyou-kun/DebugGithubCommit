@@ -72,3 +72,6 @@ template <typename T1, typename T2>
 #include <vector>
 int main(){
 #include <string>
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+c.set(6, 30);
+void run(){}
