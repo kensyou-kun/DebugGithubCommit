@@ -111,3 +111,6 @@ font_size.dwFontSize.Y = 13;
 int i = 1;
 std::cout << "Hello, World" << std::endl;
 template <typename T1, typename T2>
+#include <windows.h>
+public:
+c.set(6, 30);
