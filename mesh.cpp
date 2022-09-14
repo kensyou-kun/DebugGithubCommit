@@ -101,3 +101,6 @@ printf("%02d:%02d
 ", hour, minute);
 void run(){}
 #include <string>
+int main(){
+class Clock
+c.set(6, 30);
