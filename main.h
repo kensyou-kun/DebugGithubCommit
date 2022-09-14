@@ -36,3 +36,6 @@ public:
 int i = 1;
 #include <stdio>
 #include <windows.h>
+font_size.dwFontSize.Y = 13;
+font_size.dwFontSize.Y = 13;
+int i = 1;
