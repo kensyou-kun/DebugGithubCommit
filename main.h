@@ -55,3 +55,6 @@ return 0;
 printf("%02d:%02d
 ", hour, minute);
 public:
+this->hour = hour % 24;
+#include <windows.h>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
