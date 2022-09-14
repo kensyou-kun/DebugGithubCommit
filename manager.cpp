@@ -150,3 +150,6 @@ int i = 1;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 this->hour = hour % 24;
 #include <string>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+template <typename T1, typename T2>
+return 0;
