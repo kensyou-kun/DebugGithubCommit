@@ -76,3 +76,6 @@ public:
 class Clock
 c.set(6, 30);
 font_size.dwFontSize.Y = 13;
+#include <iostream>
+class Clock
+public:
