@@ -18,3 +18,6 @@ template <typename T1, typename T2>
 this->hour = hour % 24;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 void run(){}
+template <typename T1, typename T2>
+int i = 1;
+class Clock
