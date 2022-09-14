@@ -130,3 +130,7 @@ std::cout << "Hello, World" << std::endl;
 #include <vector>
 c.set(6, 30);
 font_size.dwFontSize.Y = 13;
+public:
+#include <vector>
+printf("%02d:%02d
+", hour, minute);
