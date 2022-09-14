@@ -43,3 +43,6 @@ ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <string>
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 void run(){}
+#include <iostream>
+public:
+#include <stdio>
