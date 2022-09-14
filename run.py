@@ -12,6 +12,9 @@ commit_num = 200
 def MakeCommit():
     files = os.listdir()
     files.remove(os.path.basename(__file__))
+    files.remove(".git")
+
+    print(files)
 
     edit = random.choice(files)
 
