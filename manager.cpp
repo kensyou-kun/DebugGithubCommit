@@ -69,3 +69,6 @@ void run(){}
 this->hour = hour % 24;
 #include <vector>
 template <typename T1, typename T2>
+#include <vector>
+int main(){
+#include <string>
