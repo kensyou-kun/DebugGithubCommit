@@ -38,3 +38,6 @@ template <typename T1, typename T2>
 font_size.dwFontSize.Y = 13;
 int i = 1;
 int main(){
+class Clock
+font_size.dwFontSize.Y = 13;
+#include <string>
