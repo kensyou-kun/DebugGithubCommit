@@ -81,3 +81,6 @@ printf("%02d:%02d
 ", hour, minute);
 void run(){}
 return 0;
+template <typename T1, typename T2>
+public:
+std::cout << "Hello, World" << std::endl;
