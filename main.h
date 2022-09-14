@@ -168,3 +168,6 @@ printf("%02d:%02d
 #include <windows.h>
 void run(){}
 #include <string>
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+int main(){
+return 0;
