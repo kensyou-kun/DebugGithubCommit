@@ -137,3 +137,6 @@ printf("%02d:%02d
 ", hour, minute);
 this->hour = hour % 24;
 void run(){}
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+public:
+#include <iostream>
