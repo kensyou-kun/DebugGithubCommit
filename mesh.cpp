@@ -41,3 +41,7 @@ int main(){
 class Clock
 font_size.dwFontSize.Y = 13;
 #include <string>
+std::cout << "Hello, World" << std::endl;
+printf("%02d:%02d
+", hour, minute);
+this->hour = hour % 24;
