@@ -43,3 +43,6 @@ c.set(6, 30);
 int i = 1;
 public:
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <iostream>
+public:
+this->hour = hour % 24;
