@@ -95,3 +95,7 @@ template <typename T1, typename T2>
 #include <iostream>
 printf("%02d:%02d
 ", hour, minute);
+#include <vector>
+this->hour = hour % 24;
+printf("%02d:%02d
+", hour, minute);
