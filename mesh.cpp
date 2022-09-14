@@ -70,3 +70,7 @@ int i = 1;
 template <typename T1, typename T2>
 #include <vector>
 c.set(6, 30);
+#include <vector>
+#include <stdio>
+printf("%02d:%02d
+", hour, minute);
