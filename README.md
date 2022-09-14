@@ -59,3 +59,6 @@ font_size.dwFontSize.Y = 13;
 #include <windows.h>
 this->hour = hour % 24;
 #include <vector>
+#include <stdio>
+#include <iostream>
+public:
