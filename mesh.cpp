@@ -28,3 +28,6 @@ int main(){
 #include <windows.h>
 #include <string>
 #include <windows.h>
+template <typename T1, typename T2>
+template <typename T1, typename T2>
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
