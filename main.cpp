@@ -61,3 +61,6 @@ int main(){
 c.set(6, 30);
 #include <stdio>
 c.set(6, 30);
+#include <windows.h>
+font_size.dwFontSize.Y = 13;
+void run(){}
