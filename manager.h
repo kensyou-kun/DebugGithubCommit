@@ -24,3 +24,6 @@ int i = 1;
 font_size.dwFontSize.Y = 13;
 this->hour = hour % 24;
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+int i = 1;
+return 0;
