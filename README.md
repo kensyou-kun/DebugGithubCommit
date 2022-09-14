@@ -143,3 +143,6 @@ class Clock
 std::cout << "Hello, World" << std::endl;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 template <typename T1, typename T2>
+void run(){}
+std::cout << "Hello, World" << std::endl;
+#include <vector>
