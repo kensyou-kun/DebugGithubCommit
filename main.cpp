@@ -71,3 +71,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 c.set(6, 30);
 #include <iostream>
 #include <stdio>
+#include <stdio>
+int main(){
+int main(){
