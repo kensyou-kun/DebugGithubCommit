@@ -30,3 +30,6 @@ std::cout << "Hello, World" << std::endl;
 font_size.dwFontSize.Y = 13;
 std::cout << "Hello, World" << std::endl;
 this->hour = hour % 24;
+font_size.dwFontSize.Y = 13;
+font_size.dwFontSize.Y = 13;
+public:
