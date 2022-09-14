@@ -98,3 +98,6 @@ void run(){}
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 class Clock
 template <typename T1, typename T2>
+#include <iostream>
+class Clock
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
