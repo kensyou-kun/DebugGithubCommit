@@ -121,3 +121,6 @@ printf("%02d:%02d
 ", hour, minute);
 class Clock
 int main(){
+#include <string>
+#include <string>
+std::cout << "Hello, World" << std::endl;
