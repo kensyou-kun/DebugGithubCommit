@@ -84,3 +84,7 @@ c.set(6, 30);
 void run(){}
 void run(){}
 this->hour = hour % 24;
+printf("%02d:%02d
+", hour, minute);
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+#include <string>
