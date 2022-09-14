@@ -25,3 +25,7 @@ printf("%02d:%02d
 #include <iostream>
 int main(){
 #include <stdio>
+printf("%02d:%02d
+", hour, minute);
+#include <string>
+class Clock
