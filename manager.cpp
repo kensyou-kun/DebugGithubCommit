@@ -141,3 +141,6 @@ printf("%02d:%02d
 #include <stdio>
 #include <iostream>
 void run(){}
+class Clock
+#include <iostream>
+font_size.dwFontSize.Y = 13;
