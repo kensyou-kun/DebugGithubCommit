@@ -28,3 +28,6 @@ class Clock
 font_size.dwFontSize.Y = 13;
 #include <stdio>
 int i = 1;
+this->hour = hour % 24;
+c.set(6, 30);
+void run(){}
