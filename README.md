@@ -149,3 +149,7 @@ std::cout << "Hello, World" << std::endl;
 int main(){
 c.set(6, 30);
 std::cout << "Hello, World" << std::endl;
+printf("%02d:%02d
+", hour, minute);
+#include <stdio>
+return 0;
