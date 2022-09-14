@@ -27,3 +27,6 @@ void run(){}
 #include <vector>
 std::cout << "Hello, World" << std::endl;
 #include <iostream>
+font_size.dwFontSize.Y = 13;
+std::cout << "Hello, World" << std::endl;
+this->hour = hour % 24;
