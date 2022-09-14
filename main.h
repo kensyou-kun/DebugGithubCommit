@@ -94,3 +94,6 @@ font_size.dwFontSize.Y = 13;
 #include <iostream>
 class Clock
 #include <stdio>
+#include <iostream>
+#include <vector>
+#include <windows.h>
