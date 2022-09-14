@@ -70,3 +70,6 @@ void run(){}
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 void run(){}
 #include <windows.h>
+void run(){}
+public:
+#include <vector>
