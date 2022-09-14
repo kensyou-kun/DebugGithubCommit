@@ -123,3 +123,6 @@ c.set(6, 30);
 printf("%02d:%02d
 ", hour, minute);
 #include <stdio>
+font_size.dwFontSize.Y = 13;
+int main(){
+int main(){
