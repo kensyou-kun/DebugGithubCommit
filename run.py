@@ -25,14 +25,7 @@ def MakeCommit():
         ["git", "commit", "-m", random.choice(commit_message)+" : " + rand])
 
 
-def Push():
-    subprocess.run(["git", "push"])
-    print("Push")
-
-
 if __name__ == "__main__":
     for i in range(commit_num):
         MakeCommit()
         time.sleep(1)
-        if (i % 10 == 0):
-            Push()
