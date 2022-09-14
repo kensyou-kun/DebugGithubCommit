@@ -134,3 +134,6 @@ this->hour = hour % 24;
 printf("%02d:%02d
 ", hour, minute);
 #include <stdio>
+this->hour = hour % 24;
+int i = 1;
+int main(){
