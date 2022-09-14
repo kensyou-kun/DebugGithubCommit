@@ -100,3 +100,6 @@ printf("%02d:%02d
 #include <iostream>
 font_size.dwFontSize.Y = 13;
 int main(){
+int i = 1;
+public:
+template <typename T1, typename T2>
