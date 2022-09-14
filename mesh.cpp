@@ -135,3 +135,6 @@ int main(){
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 c.set(6, 30);
 public:
+this->hour = hour % 24;
+int i = 1;
+public:
