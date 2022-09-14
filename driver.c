@@ -8,3 +8,6 @@ int main(){
 int main(){
 font_size.dwFontSize.Y = 13;
 #include <vector>
+template <typename T1, typename T2>
+c.set(6, 30);
+#include <windows.h>
