@@ -57,3 +57,6 @@ template <typename T1, typename T2>
 #include <vector>
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 this->hour = hour % 24;
+#include <iostream>
+std::cout << "Hello, World" << std::endl;
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
