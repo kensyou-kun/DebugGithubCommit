@@ -45,3 +45,6 @@ printf("%02d:%02d
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <windows.h>
 template <typename T1, typename T2>
+public:
+#include <vector>
+class Clock
