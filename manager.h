@@ -133,3 +133,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 void run(){}
 template <typename T1, typename T2>
 this->hour = hour % 24;
+font_size.dwFontSize.Y = 13;
+return 0;
+template <typename T1, typename T2>
