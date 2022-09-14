@@ -76,3 +76,6 @@ public:
 this->hour = hour % 24;
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 c.set(6, 30);
+#include <vector>
+#include <windows.h>
+int i = 1;
