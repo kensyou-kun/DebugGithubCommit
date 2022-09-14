@@ -100,3 +100,7 @@ class Clock
 font_size.dwFontSize.Y = 13;
 this->hour = hour % 24;
 this->hour = hour % 24;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+printf("%02d:%02d
+", hour, minute);
+public:
