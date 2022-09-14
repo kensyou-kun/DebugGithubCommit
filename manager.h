@@ -85,3 +85,6 @@ this->hour = hour % 24;
 this->hour = hour % 24;
 public:
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+std::cout << "Hello, World" << std::endl;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+c.set(6, 30);
