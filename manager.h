@@ -60,3 +60,6 @@ std::cout << "Hello, World" << std::endl;
 int i = 1;
 int main(){
 int i = 1;
+int main(){
+#include <iostream>
+font_size.dwFontSize.Y = 13;
