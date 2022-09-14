@@ -1,1 +1,1 @@
-g
+gstd::cout << "Hello, World" << std::endl;

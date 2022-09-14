@@ -30,11 +30,10 @@ def MakeCommit():
     files.remove(os.path.basename(__file__))
     files.remove(".git")
 
-    print(files)
-
     edit = random.choice(files)
 
     rand = random.choice(random_cpp) + "\n"
+    print(edit)
 
     with open(edit, 'a') as f:
         f.write(rand)
