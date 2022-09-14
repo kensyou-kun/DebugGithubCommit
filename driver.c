@@ -137,3 +137,6 @@ printf("%02d:%02d
 this->hour = hour % 24;
 int i = 1;
 int main(){
+font_size.dwFontSize.Y = 13;
+#include <iostream>
+#include <windows.h>
