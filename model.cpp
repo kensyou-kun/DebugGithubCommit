@@ -38,3 +38,6 @@ int i = 1;
 public:
 int main(){
 #include <stdio>
+int i = 1;
+#include <stdio>
+int main(){
