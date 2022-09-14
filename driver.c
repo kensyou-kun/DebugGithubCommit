@@ -105,3 +105,6 @@ c.set(6, 30);
 printf("%02d:%02d
 ", hour, minute);
 int i = 1;
+void run(){}
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+font_size.dwFontSize.Y = 13;
