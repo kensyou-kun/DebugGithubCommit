@@ -12,3 +12,6 @@ void run(){}
 #include <vector>
 int i = 1;
 class Clock
+class Clock
+int i = 1;
+class Clock
