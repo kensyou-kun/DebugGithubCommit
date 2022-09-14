@@ -77,3 +77,7 @@ public:
 #include <vector>
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 #include <iostream>
+class Clock
+font_size.dwFontSize.Y = 13;
+printf("%02d:%02d
+", hour, minute);
