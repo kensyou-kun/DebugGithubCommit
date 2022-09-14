@@ -157,3 +157,7 @@ printf("%02d:%02d
 printf("%02d:%02d
 ", hour, minute);
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+std::cout << "Hello, World" << std::endl;
+printf("%02d:%02d
+", hour, minute);
+int main(){
