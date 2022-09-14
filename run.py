@@ -31,4 +31,4 @@ def MakeCommit():
 if __name__ == "__main__":
     for i in range(commit_num):
         MakeCommit()
-        time.sleep(5)
+        time.sleep(1)
