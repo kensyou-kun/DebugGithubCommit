@@ -55,3 +55,6 @@ printf("%02d:%02d
 #include <string>
 #include <stdio>
 return 0;
+#include <stdio>
+void run(){}
+int main(){
