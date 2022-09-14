@@ -88,3 +88,6 @@ template <typename T1, typename T2>
 c.set(6, 30);
 void run(){}
 return 0;
+template <typename T1, typename T2>
+std::cout << "Hello, World" << std::endl;
+font_size.dwFontSize.Y = 13;
