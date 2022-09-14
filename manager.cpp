@@ -42,3 +42,6 @@ std::cout << "Hello, World" << std::endl;
 printf("%02d:%02d
 ", hour, minute);
 #include <vector>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <windows.h>
+template <typename T1, typename T2>
