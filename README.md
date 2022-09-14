@@ -74,3 +74,6 @@ class Clock
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 #include <vector>
+public:
+int main(){
+#include <iostream>
