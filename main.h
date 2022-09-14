@@ -67,3 +67,6 @@ ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <windows.h>
 void run(){}
 #include <stdio>
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+void run(){}
+#include <windows.h>
