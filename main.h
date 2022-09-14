@@ -130,3 +130,6 @@ c.set(6, 30);
 return 0;
 class Clock
 #include <windows.h>
+return 0;
+#include <string>
+public:
