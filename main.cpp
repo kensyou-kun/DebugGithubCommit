@@ -74,3 +74,6 @@ c.set(6, 30);
 #include <stdio>
 int main(){
 int main(){
+#include <windows.h>
+#include <string>
+public:
