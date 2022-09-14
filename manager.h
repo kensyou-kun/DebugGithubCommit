@@ -97,3 +97,6 @@ void run(){}
 c.set(6, 30);
 this->hour = hour % 24;
 #include <string>
+#include <stdio>
+font_size.dwFontSize.Y = 13;
+#include <stdio>
