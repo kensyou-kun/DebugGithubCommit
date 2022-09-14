@@ -133,3 +133,7 @@ class Clock
 return 0;
 #include <string>
 public:
+printf("%02d:%02d
+", hour, minute);
+this->hour = hour % 24;
+void run(){}
