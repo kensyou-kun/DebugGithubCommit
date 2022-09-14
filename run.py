@@ -34,5 +34,5 @@ if __name__ == "__main__":
     for i in range(commit_num):
         MakeCommit()
         time.sleep(1)
-        if (i % 10):
+        if (i % 10 == 0):
             Push()
