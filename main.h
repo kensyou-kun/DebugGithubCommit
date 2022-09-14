@@ -39,3 +39,6 @@ int i = 1;
 font_size.dwFontSize.Y = 13;
 font_size.dwFontSize.Y = 13;
 int i = 1;
+c.set(6, 30);
+void run(){}
+class Clock
