@@ -162,3 +162,6 @@ c.set(6, 30);
 std::cout << "Hello, World" << std::endl;
 font_size.dwFontSize.Y = 13;
 return 0;
+public:
+class Clock
+public:
