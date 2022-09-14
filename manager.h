@@ -112,3 +112,6 @@ template <typename T1, typename T2>
 c.set(6, 30);
 font_size.dwFontSize.Y = 13;
 #include <windows.h>
+this->hour = hour % 24;
+void run(){}
+int main(){
