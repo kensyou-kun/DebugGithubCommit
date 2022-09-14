@@ -80,3 +80,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 int i = 1;
 return 0;
 #include <stdio>
+int main(){
+c.set(6, 30);
+font_size.dwFontSize.Y = 13;
