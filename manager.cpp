@@ -144,3 +144,6 @@ void run(){}
 class Clock
 #include <iostream>
 font_size.dwFontSize.Y = 13;
+#include <string>
+int i = 1;
+#include <string>
