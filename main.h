@@ -45,3 +45,6 @@ class Clock
 #include <vector>
 #include <string>
 public:
+int i = 1;
+int main(){
+public:
