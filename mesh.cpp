@@ -67,3 +67,6 @@ printf("%02d:%02d
 ", hour, minute);
 int i = 1;
 #include <vector>
+template <typename T1, typename T2>
+#include <vector>
+c.set(6, 30);
