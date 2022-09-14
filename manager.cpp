@@ -121,3 +121,6 @@ this->hour = hour % 24;
 return 0;
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 font_size.dwFontSize.Y = 13;
+void run(){}
+this->hour = hour % 24;
+font_size.dwFontSize.Y = 13;
