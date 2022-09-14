@@ -124,3 +124,6 @@ int main(){
 #include <string>
 #include <string>
 std::cout << "Hello, World" << std::endl;
+c.set(6, 30);
+public:
+c.set(6, 30);
