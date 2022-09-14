@@ -25,3 +25,6 @@ c.set(6, 30);
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 c.set(6, 30);
 #include <vector>
+void run(){}
+#include <string>
+std::cout << "Hello, World" << std::endl;
