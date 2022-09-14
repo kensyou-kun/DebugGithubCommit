@@ -9,3 +9,6 @@ std::cout << "Hello, World" << std::endl;
 std::cout << "Hello, World" << std::endl;
 #include <string>
 void run(){}
+#include <vector>
+int i = 1;
+class Clock
