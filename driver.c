@@ -28,3 +28,6 @@ printf("%02d:%02d
 #include <iostream>
 public:
 int main(){
+template <typename T1, typename T2>
+public:
+font_size.dwFontSize.Y = 13;
