@@ -130,3 +130,7 @@ class Clock
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 public:
 int i = 1;
+this->hour = hour % 24;
+printf("%02d:%02d
+", hour, minute);
+#include <stdio>
