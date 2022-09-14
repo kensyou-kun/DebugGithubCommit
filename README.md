@@ -87,3 +87,6 @@ std::cout << "Hello, World" << std::endl;
 font_size.dwFontSize.Y = 13;
 #include <iostream>
 c.set(6, 30);
+int i = 1;
+#include <string>
+std::cout << "Hello, World" << std::endl;
