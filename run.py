@@ -34,7 +34,7 @@ def MakeCommit():
 
     edit = random.choice(files)
 
-    rand = random.choice(random_cpp)
+    rand = random.choice(random_cpp) + "\n"
 
     with open(edit, 'a') as f:
         f.write(rand)
