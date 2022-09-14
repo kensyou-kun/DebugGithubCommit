@@ -165,3 +165,6 @@ return 0;
 public:
 class Clock
 public:
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+int main(){
+#include <windows.h>
