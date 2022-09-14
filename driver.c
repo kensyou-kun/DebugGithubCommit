@@ -37,3 +37,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 void run(){}
 int i = 1;
 this->hour = hour % 24;
+int main(){
+int i = 1;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
