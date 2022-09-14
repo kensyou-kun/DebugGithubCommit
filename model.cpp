@@ -65,3 +65,6 @@ int i = 1;
 #include <windows.h>
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <stdio>
+this->hour = hour % 24;
+#include <stdio>
+void run(){}
