@@ -107,3 +107,6 @@ font_size.dwFontSize.Y = 13;
 class Clock
 font_size.dwFontSize.Y = 13;
 font_size.dwFontSize.Y = 13;
+int i = 1;
+std::cout << "Hello, World" << std::endl;
+font_size.dwFontSize.Y = 13;
