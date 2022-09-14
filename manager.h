@@ -91,3 +91,6 @@ c.set(6, 30);
 #include <windows.h>
 font_size.dwFontSize.Y = 13;
 c.set(6, 30);
+public:
+public:
+void run(){}
