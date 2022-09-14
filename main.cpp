@@ -95,3 +95,6 @@ c.set(6, 30);
 public:
 public:
 return 0;
+int main(){
+return 0;
+int i = 1;
