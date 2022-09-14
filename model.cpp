@@ -6,3 +6,6 @@ bool flag == true;int i = nullptr;
 #include <windows.h>
 void run(){}
 #include <windows.h>
+int main(){
+#include <vector>
+#include <string>
