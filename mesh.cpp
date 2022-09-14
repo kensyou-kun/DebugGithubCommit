@@ -57,3 +57,6 @@ this->hour = hour % 24;
 return 0;
 return 0;
 c.set(6, 30);
+int i = 1;
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+template <typename T1, typename T2>
