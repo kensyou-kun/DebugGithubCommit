@@ -27,3 +27,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 int i = 1;
 return 0;
+#include <windows.h>
+#include <windows.h>
+template <typename T1, typename T2>
