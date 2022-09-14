@@ -1,1 +1,1 @@
-w
+wint main(){

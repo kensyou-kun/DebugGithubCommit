@@ -22,7 +22,7 @@ random_cpp = [
 'int i = nullptr;'
 ]
 
-commit_num = 1
+commit_num = 25
 
 
 def MakeCommit():
