@@ -21,5 +21,11 @@ def MakeCommit():
     subprocess.run(["git", "add","."])
     subprocess.run(["git", "commit","-m",random.choice(commit_message)+rand])
 
+def Push():
+    subprocess.run(["git", "push"])
+
 if __name__ == "__main__": 
-    MakeCommit()
+    for i in range(commit_num):
+        MakeCommit()
+        # if (i % 10):
+        #     Push()
