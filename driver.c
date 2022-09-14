@@ -40,3 +40,6 @@ this->hour = hour % 24;
 int main(){
 int i = 1;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <string>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+void run(){}
