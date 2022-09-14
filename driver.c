@@ -79,3 +79,6 @@ c.set(6, 30);
 #include <vector>
 #include <windows.h>
 int i = 1;
+void run(){}
+#include <iostream>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
