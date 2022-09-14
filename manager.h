@@ -66,3 +66,6 @@ font_size.dwFontSize.Y = 13;
 #include <vector>
 #include <iostream>
 #include <vector>
+template <typename T1, typename T2>
+#include <iostream>
+return 0;
