@@ -145,3 +145,6 @@ font_size.dwFontSize.Y = 13;
 printf("%02d:%02d
 ", hour, minute);
 return 0;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+font_size.dwFontSize.Y = 13;
+int main(){
