@@ -70,3 +70,6 @@ font_size.dwFontSize.Y = 13;
 #include <iostream>
 public:
 public:
+template <typename T1, typename T2>
+public:
+public:
