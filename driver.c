@@ -49,3 +49,6 @@ public:
 #include <windows.h>
 #include <string>
 #include <string>
+font_size.dwFontSize.Y = 13;
+int i = 1;
+return 0;
