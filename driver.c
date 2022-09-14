@@ -82,3 +82,6 @@ int i = 1;
 void run(){}
 #include <iostream>
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <windows.h>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <windows.h>
