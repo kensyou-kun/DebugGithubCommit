@@ -118,3 +118,6 @@ std::cout << "Hello, World" << std::endl;
 font_size.dwFontSize.Y = 13;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <vector>
+return 0;
+#include <windows.h>
+c.set(6, 30);
