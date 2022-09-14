@@ -140,3 +140,6 @@ void run(){}
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 public:
 #include <iostream>
+this->hour = hour % 24;
+font_size.dwFontSize.Y = 13;
+font_size.dwFontSize.Y = 13;
