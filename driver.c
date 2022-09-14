@@ -52,3 +52,6 @@ public:
 font_size.dwFontSize.Y = 13;
 int i = 1;
 return 0;
+#include <stdio>
+template <typename T1, typename T2>
+public:
