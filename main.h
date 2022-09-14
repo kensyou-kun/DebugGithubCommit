@@ -85,3 +85,6 @@ c.set(6, 30);
 void run(){}
 int main(){
 template <typename T1, typename T2>
+c.set(6, 30);
+void run(){}
+return 0;
