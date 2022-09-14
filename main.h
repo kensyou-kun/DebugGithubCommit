@@ -42,3 +42,6 @@ int i = 1;
 c.set(6, 30);
 void run(){}
 class Clock
+#include <vector>
+#include <string>
+public:
