@@ -74,3 +74,6 @@ this->hour = hour % 24;
 std::cout << "Hello, World" << std::endl;
 void run(){}
 public:
+#include <vector>
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+#include <iostream>
