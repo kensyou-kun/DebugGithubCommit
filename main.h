@@ -114,3 +114,6 @@ void run(){}
 #include <windows.h>
 std::cout << "Hello, World" << std::endl;
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+c.set(6, 30);
+void run(){}
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
