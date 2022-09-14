@@ -72,3 +72,6 @@ return 0;
 void run(){}
 c.set(6, 30);
 c.set(6, 30);
+template <typename T1, typename T2>
+public:
+#include <string>
