@@ -35,3 +35,6 @@ printf("%02d:%02d
 #include <windows.h>
 #include <vector>
 int i = 1;
+public:
+int main(){
+#include <stdio>
