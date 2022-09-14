@@ -143,3 +143,6 @@ font_size.dwFontSize.Y = 13;
 public:
 return 0;
 int main(){
+this->hour = hour % 24;
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+#include <string>
