@@ -16,3 +16,6 @@ return 0;
 #include <iostream>
 font_size.dwFontSize.Y = 13;
 return 0;
+return 0;
+int i = 1;
+int i = 1;
