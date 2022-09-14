@@ -107,3 +107,6 @@ c.set(6, 30);
 return 0;
 class Clock
 this->hour = hour % 24;
+int main(){
+#include <windows.h>
+std::cout << "Hello, World" << std::endl;
