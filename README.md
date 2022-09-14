@@ -15,3 +15,6 @@ printf("%02d:%02d
 printf("%02d:%02d
 ", hour, minute);
 template <typename T1, typename T2>
+this->hour = hour % 24;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+void run(){}
