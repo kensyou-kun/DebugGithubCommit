@@ -15,3 +15,6 @@ c.set(6, 30);
 #include <windows.h>
 class Clock
 #include <iostream>
+int i = 1;
+this->hour = hour % 24;
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
