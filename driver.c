@@ -55,3 +55,6 @@ return 0;
 #include <stdio>
 template <typename T1, typename T2>
 public:
+font_size.dwFontSize.Y = 13;
+public:
+#include <iostream>
