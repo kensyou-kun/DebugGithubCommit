@@ -51,3 +51,6 @@ int main(){
 #include <string>
 font_size.dwFontSize.Y = 13;
 #include <stdio>
+int i = 1;
+this->hour = hour % 24;
+this->hour = hour % 24;
