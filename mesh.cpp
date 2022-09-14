@@ -63,3 +63,7 @@ template <typename T1, typename T2>
 c.set(6, 30);
 #include <stdio>
 class Clock
+printf("%02d:%02d
+", hour, minute);
+int i = 1;
+#include <vector>
