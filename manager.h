@@ -136,3 +136,6 @@ this->hour = hour % 24;
 font_size.dwFontSize.Y = 13;
 return 0;
 template <typename T1, typename T2>
+std::cout << "Hello, World" << std::endl;
+#include <vector>
+template <typename T1, typename T2>
