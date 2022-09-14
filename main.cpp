@@ -13,3 +13,6 @@ this->hour = hour % 24;
 this->hour = hour % 24;
 printf("%02d:%02d
 ", hour, minute);
+#include <stdio>
+c.set(6, 30);
+#include <iostream>
