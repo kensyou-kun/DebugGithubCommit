@@ -153,3 +153,6 @@ printf("%02d:%02d
 ", hour, minute);
 #include <stdio>
 return 0;
+c.set(6, 30);
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+#include <vector>
