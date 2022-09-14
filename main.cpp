@@ -39,3 +39,6 @@ font_size.dwFontSize.Y = 13;
 #include <string>
 printf("%02d:%02d
 ", hour, minute);
+#include <vector>
+#include <stdio>
+int i = 1;
