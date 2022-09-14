@@ -62,3 +62,6 @@ c.set(6, 30);
 #include <iostream>
 #include <string>
 int i = 1;
+#include <windows.h>
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <stdio>
