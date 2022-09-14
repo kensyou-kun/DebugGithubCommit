@@ -146,3 +146,6 @@ font_size.dwFontSize.Y = 13;
 c.set(6, 30);
 #include <iostream>
 c.set(6, 30);
+int i = 1;
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <iostream>
