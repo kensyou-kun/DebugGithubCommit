@@ -143,3 +143,6 @@ public:
 this->hour = hour % 24;
 font_size.dwFontSize.Y = 13;
 font_size.dwFontSize.Y = 13;
+c.set(6, 30);
+#include <iostream>
+c.set(6, 30);
