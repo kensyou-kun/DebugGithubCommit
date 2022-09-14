@@ -81,3 +81,6 @@ bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 c.set(6, 30);
 #include <vector>
 #include <stdio>
+void run(){}
+void run(){}
+this->hour = hour % 24;
