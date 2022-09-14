@@ -138,3 +138,6 @@ public:
 this->hour = hour % 24;
 int i = 1;
 public:
+font_size.dwFontSize.Y = 13;
+c.set(6, 30);
+int i = 1;
