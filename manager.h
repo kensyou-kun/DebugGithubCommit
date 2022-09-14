@@ -8,3 +8,6 @@ int i = 1;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <windows.h>
 template <typename T1, typename T2>
+void run(){}
+public:
+font_size.dwFontSize.Y = 13;
