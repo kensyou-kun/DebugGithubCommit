@@ -30,3 +30,6 @@ return 0;
 #include <windows.h>
 #include <windows.h>
 template <typename T1, typename T2>
+#include <string>
+#include <iostream>
+void run(){}
