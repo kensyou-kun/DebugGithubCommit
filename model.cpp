@@ -71,3 +71,6 @@ void run(){}
 #include <string>
 template <typename T1, typename T2>
 this->hour = hour % 24;
+std::cout << "Hello, World" << std::endl;
+void run(){}
+public:
