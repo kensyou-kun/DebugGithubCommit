@@ -121,3 +121,6 @@ return 0;
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 #include <string>
 #include <iostream>
+#include <string>
+#include <string>
+#include <vector>
