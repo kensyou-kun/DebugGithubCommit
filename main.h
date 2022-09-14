@@ -107,3 +107,7 @@ public:
 #include <iostream>
 template <typename T1, typename T2>
 c.set(6, 30);
+printf("%02d:%02d
+", hour, minute);
+void run(){}
+#include <stdio>
