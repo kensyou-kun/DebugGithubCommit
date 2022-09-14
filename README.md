@@ -62,3 +62,6 @@ this->hour = hour % 24;
 #include <stdio>
 #include <iostream>
 public:
+c.set(6, 30);
+template <typename T1, typename T2>
+#include <string>
