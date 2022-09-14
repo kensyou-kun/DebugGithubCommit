@@ -137,3 +137,6 @@ template <typename T1, typename T2>
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 int main(){
 c.set(6, 30);
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+public:
+class Clock
