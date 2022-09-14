@@ -51,3 +51,6 @@ font_size.dwFontSize.Y = 13;
 public:
 #include <windows.h>
 int main(){
+c.set(6, 30);
+#include <vector>
+#include <stdio>
