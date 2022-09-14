@@ -64,3 +64,6 @@ public:
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 int main(){
 ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+#include <windows.h>
+void run(){}
+#include <stdio>
