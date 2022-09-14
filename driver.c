@@ -164,3 +164,6 @@ int main(){
 public:
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 #include <stdio>
+return 0;
+this->hour = hour % 24;
+public:
