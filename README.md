@@ -121,3 +121,6 @@ ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
 return 0;
 #include <windows.h>
 c.set(6, 30);
+this->hour = hour % 24;
+#include <vector>
+std::cout << "Hello, World" << std::endl;
