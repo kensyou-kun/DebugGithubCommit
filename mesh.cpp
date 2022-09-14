@@ -155,3 +155,6 @@ font_size.dwFontSize.Y = 13;
 printf("%02d:%02d
 ", hour, minute);
 #include <stdio>
+font_size.dwFontSize.Y = 13;
+template <typename T1, typename T2>
+#include <iostream>
