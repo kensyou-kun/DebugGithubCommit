@@ -171,3 +171,6 @@ void run(){}
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
 int main(){
 return 0;
+void run(){}
+std::cout << "Hello, World" << std::endl;
+font_size.dwFontSize.Y = 13;
