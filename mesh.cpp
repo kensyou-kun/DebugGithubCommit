@@ -45,3 +45,6 @@ std::cout << "Hello, World" << std::endl;
 printf("%02d:%02d
 ", hour, minute);
 this->hour = hour % 24;
+void run(){}
+int main(){
+#include <iostream>
