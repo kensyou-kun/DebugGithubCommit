@@ -83,3 +83,6 @@ return 0;
 int main(){
 c.set(6, 30);
 font_size.dwFontSize.Y = 13;
+#include <stdio>
+#include <string>
+#include <iostream>
