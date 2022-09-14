@@ -98,3 +98,6 @@ return 0;
 int main(){
 return 0;
 int i = 1;
+c.set(6, 30);
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+this->hour = hour % 24;
