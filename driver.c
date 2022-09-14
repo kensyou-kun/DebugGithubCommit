@@ -18,3 +18,6 @@ printf("%02d:%02d
 return 0;
 int i = 1;
 std::cout << "Hello, World" << std::endl;
+#include <string>
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+#include <vector>
