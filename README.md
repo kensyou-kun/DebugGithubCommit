@@ -112,3 +112,6 @@ void run(){}
 class Clock
 int i = 1;
 std::cout << "Hello, World" << std::endl;
+#include <vector>
+#include <windows.h>
+#include <stdio>
