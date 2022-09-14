@@ -65,3 +65,6 @@ public:
 c.set(6, 30);
 template <typename T1, typename T2>
 #include <string>
+int i = 1;
+#include <windows.h>
+bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
