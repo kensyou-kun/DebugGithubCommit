@@ -81,3 +81,6 @@ class Clock
 font_size.dwFontSize.Y = 13;
 printf("%02d:%02d
 ", hour, minute);
+#include <vector>
+c.set(6, 30);
+c.set(6, 30);
