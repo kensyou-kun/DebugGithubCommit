@@ -84,3 +84,6 @@ return 0;
 template <typename T1, typename T2>
 public:
 std::cout << "Hello, World" << std::endl;
+font_size.dwFontSize.Y = 13;
+#include <iostream>
+c.set(6, 30);
