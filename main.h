@@ -161,3 +161,7 @@ return 0;
 class Clock
 #include <vector>
 #include <vector>
+std::cout << "Hello, World" << std::endl;
+#include <stdio>
+printf("%02d:%02d
+", hour, minute);
