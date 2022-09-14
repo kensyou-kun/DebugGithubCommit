@@ -53,3 +53,6 @@ void run(){}
 return 0;
 c.set(6, 30);
 bool flag == true;int i = nullptr;int array_[3] = { 0, 0, 0 };
+c.set(6, 30);
+ptr_array = array_;std::cout << "ptr_array " << ptr_array << std::endl;
+font_size.dwFontSize.Y = 13;
