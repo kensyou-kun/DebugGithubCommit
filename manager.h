@@ -94,3 +94,6 @@ c.set(6, 30);
 public:
 public:
 void run(){}
+c.set(6, 30);
+this->hour = hour % 24;
+#include <string>
